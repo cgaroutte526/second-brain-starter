@@ -19,11 +19,10 @@ Search across:
 
 Pull anything substantive. Note the source files; you'll cite them in the footer.
 
-## Step 3 — Pick the voice
+## Step 3 — Use the user's voice
 
-- If the topic involves a licensing partner (UGA, CLC, Fanatics, or any name listed in `reference/licensors/`), use **Licensing partner voice** (`CLAUDE.md` §2).
-- Otherwise, use **Consolidus / internal voice** (`CLAUDE.md` §2).
-- If unsure, ask the user before drafting.
+- Write in the user's voice as defined in `CLAUDE.md` §2 (greetings, sign-off, characteristic phrases, things to avoid).
+- If the user has noted distinct voices for different audiences (e.g., internal vs. external), pick the one that fits the topic. If unsure which, ask before drafting.
 
 ## Step 4 — Apply format rules
 
@@ -45,7 +44,7 @@ Include this footer at the bottom of the file:
 - [file:line or section]
 - [file:line or section]
 
-**Voice used:** [Consolidus/internal | Licensing partner]
+**Voice used:** [which voice, if you keep more than one]
 **Type:** [email | memo | status-update | note]
 **Topic:** [original topic argument]
 ```

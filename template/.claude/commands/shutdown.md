@@ -51,8 +51,8 @@ Show the user the proposed routing as a table:
 
 | Item | Type | Target file | Action |
 |---|---|---|---|
-| ... | commitment | areas/licensing/clc/_project.md | append to Open commitments |
-| ... | decision | areas/consolidus-merchandising/ariel-rebrand.md | flip pending → decided |
+| ... | commitment | areas/<area>/<project>.md | append to Open commitments |
+| ... | decision | areas/<area>/<project>.md | flip pending → decided |
 ```
 
 WAIT for the user's explicit OK before touching anything in `areas/`. This is hard rule #3.

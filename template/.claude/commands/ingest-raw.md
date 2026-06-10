@@ -30,9 +30,9 @@ Show the user this table BEFORE writing anything to `areas/`. Hard rule #3.
 
 | File in raw/ | Apparent type | Action | Target |
 |---|---|---|---|
-| casey-templates-spec.pdf | PDF | UPDATE | areas/consolidus-merchandising/casey-templates.md |
-| clc-q2-deadline-email.eml | email export | UPDATE | areas/licensing/clc/_project.md |
-| unknown-partner-deck.pdf | PDF | ??? | needs your input |
+| project-spec.pdf | PDF | UPDATE | areas/<area>/<project>.md |
+| q2-deadline-email.eml | email export | UPDATE | areas/<area>/<project>.md |
+| unknown-deck.pdf | PDF | ??? | needs your input |
 ```
 
 WAIT for the user's explicit approval. If the user wants to change a route, accept the correction.

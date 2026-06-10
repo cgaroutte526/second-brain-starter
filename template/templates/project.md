@@ -1,6 +1,6 @@
 # [Project Name]
 
-**Area:** [licensing | consolidus-merchandising]
+**Area:** [your area name]
 **Status:** [active | blocked | done | paused]
 **Active focus:** [yes | no]
 **Stakeholders:** [[person1]], [[person2]]

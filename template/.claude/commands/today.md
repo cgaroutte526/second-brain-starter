@@ -31,7 +31,7 @@ Map ranked items into the available time blocks in the user's calendar:
 - Medium block (45–89 min) → focused but bounded (review, prep, analysis).
 - Shallow block (< 45 min) → email, approvals, short follow-ups.
 
-Insert hourly licensing-inbox sweeps as fixed markers between blocks.
+If the user keeps any recurring check-ins (e.g., an inbox they sweep on a schedule, a standup), insert those as fixed markers between blocks. Otherwise skip this.
 
 If the day doesn't have enough open time for everything ranked, say so explicitly and propose what to cut or defer.
 
@@ -66,16 +66,13 @@ Create or overwrite `daily-logs/YYYY-MM-DD.md` (today's date) with this exact st
 
 ### Suggested schedule
 - HH:MM–HH:MM  [item] — [deep | medium | shallow]
-- HH:00         Licensing inbox sweep
+- HH:00         [recurring check-in, if any]
 - HH:MM–HH:MM  [item] — [deep | medium | shallow]
 - ...
 
 ### Roll-forwards
 - [item] — slipped [N] day(s)
 - [items, or "none"]
-
-### Licensing windows
-- HH:00, HH:00, HH:00, HH:00 — hourly sweeps
 
 ### Capacity check
 [Either "Plan fits the day" OR an explicit note about what won't fit and suggested cuts.]

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Loads session-start context for Cameron's Second Brain.
+# Loads session-start context for your Second Brain.
 # Plain-text stdout becomes session context (Claude Code SessionStart hook).
 # Deliberately NOT using `set -e`: a non-zero exit makes the hook fail
 # silently, so every step is guarded and the script always ends with exit 0.
