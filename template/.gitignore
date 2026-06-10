@@ -1,0 +1,15 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace state (not the notes themselves)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Editor noise
+.vscode/
+*.swp
+
+# Local Claude Code state that shouldn't be shared
+.claude/local/
