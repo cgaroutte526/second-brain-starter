@@ -1,7 +1,5 @@
 # Quickstart — Mac
 
-> Screenshots are added after the pilot run.
-
 ## 1. Install Claude Code
 Open **Terminal** (Cmd+Space → "Terminal") and paste:
 ```bash
