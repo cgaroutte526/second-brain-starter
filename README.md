@@ -19,4 +19,4 @@ Build your own AI Second Brain — a local notes vault that Claude Code reads, w
 - `docs/` — the guide (what & why, quickstarts, troubleshooting).
 
 ## Questions
-See **[docs/troubleshooting.md](docs/troubleshooting.md)**, or ask <<Cameron / your internal contact>>.
+See **[docs/troubleshooting.md](docs/troubleshooting.md)**, or reach out to Cameron — happy to help you get set up or walk you through it.
